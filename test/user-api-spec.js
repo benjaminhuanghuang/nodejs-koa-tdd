@@ -28,7 +28,7 @@ describe('user web', function () {
     it('should have +1 user count after saving', function* () {
         var res = yield request.get('/user').expect(200).end();
         var users = res.body;
-
+        console.log(users);
          yield data.users.save({
             name: 'John'
         });
