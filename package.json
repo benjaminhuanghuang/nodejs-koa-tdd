@@ -8,7 +8,8 @@
     "devDependencies": {
         "mocha": "3.3.0",
         "co-mocha": "^1.2.0",
-        "should":"11.2.1"
+        "should":"11.2.1",
+        "co-fs":"1.2.0"
     },
     "description": "Node.js koa tdd project",
     "author": "benjamin",
