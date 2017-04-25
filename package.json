@@ -1,0 +1,16 @@
+{
+    "name": "nodejs-koa-tdd",
+    "version": "1.0.0",
+    "private": true,
+    "main": "server.js",
+    "scripts": {},
+    "dependencies": {},
+    "devDependencies": {
+        "mocha": "3.3.0",
+        "co-mocha": "^1.2.0",
+        "should":"11.2.1"
+    },
+    "description": "Node.js koa tdd project",
+    "author": "benjamin",
+    "license": "ISC"
+}
