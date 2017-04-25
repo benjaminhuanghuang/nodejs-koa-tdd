@@ -1,0 +1,10 @@
+
+before(function* () {
+
+});
+
+describe('<test suit name>', function () {
+    it('<test case name>', function* () {
+
+    });
+});

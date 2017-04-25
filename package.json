@@ -9,7 +9,11 @@
         "mocha": "3.3.0",
         "co-mocha": "^1.2.0",
         "should":"11.2.1",
-        "co-fs":"1.2.0"
+        "co-fs":"1.2.0",
+        "supertest":"^1.0.0",
+        "co-supertest":"0.0.10",
+        "koa":"2.2.0",
+        "koa-router":"7.1.1"
     },
     "description": "Node.js koa tdd project",
     "author": "benjamin",
