@@ -1,10 +1,7 @@
-## Install mocha
-    $ npm install mocha -g
-    $ npm install co-mocha -g   # mocha support generator function
-    
+# Koa + Node.js + UT project
 
-## Write tests
-    Create spec files under test folder
 
-## Run tests
-    $ mocha
+## Reference
+    Koa 框架教程
+    - http://www.ruanyifeng.com/blog/2017/08/koa.html
+

@@ -12,4 +12,4 @@ router.get('/user', function* (){
 
 app.use(router.routes());
 
-app.listen(3001);
+app.listen(3721);
